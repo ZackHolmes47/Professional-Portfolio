@@ -369,11 +369,12 @@ img {
 }
 
 .hero-note {
-    width: 100%;
-    padding: 1rem 1.1rem;
+    width: 80%;
+    padding: 2rem 2.1rem;
     border-radius: var(--radius-md);
     background: rgba(255, 255, 255, 0.92);
     box-shadow: var(--shadow-md);
+    margin-top: 4rem;
 }
 
 .hero-note-label {
